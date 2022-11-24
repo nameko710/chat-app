@@ -16,7 +16,7 @@
 
 ## rooms テーブル
 
-| Column | Type   | Options     |
+| Column | Type   | Options     |0x50
 | ------ | ------ | ----------- |
 | name   | string | null: false |
 
